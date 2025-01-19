@@ -30,14 +30,6 @@ Este arquivo apresenta uma versão simplificada do algoritmo com foco em ordenar
 
 ---
 
-## Como Executar
-1. **Compilar o programa:**
-   Para compilar os arquivos, utilize um compilador de C, como o GCC:
-   ```bash
-   gcc codigo_base.c -o codigo_base
-   gcc codigo_com_10_interacoes.c -o codigo_com_10_interacoes
-
-
 # Tabela de Comparação de Tempos para 100.000 Números
 
 | Situação                                         | Tempo de Execução |
